@@ -1,2 +1,2 @@
- alert('Hello,makino!');
-//alart('Hello,Osamu!');
+
+alart('Hello,Osamu!');
